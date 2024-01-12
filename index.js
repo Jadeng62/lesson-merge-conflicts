@@ -10,3 +10,4 @@ function createPerson(name, age) {
     person.friends.push(other);
     return person;
   }
+  
